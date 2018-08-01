@@ -1,0 +1,5 @@
+Hei,Id,Old,name
+1.82,BS001,23,Bob
+1.73,BS092,31,Alex
+1.61,BS612,22,Anna
+1.63,BS008,41,Lisi
